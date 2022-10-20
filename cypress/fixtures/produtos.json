@@ -3,24 +3,28 @@
 		"url": "supernova-sport-pant",
 		"tamanho": "32",
 		"cor": "Black",
-		"descricao": "Supernova Sport Pant - 32, Black"
+		"descricao": "Supernova Sport Pant - 32, Black",
+		"quantidade": 1
 	},
 	{
 		"url": "ajax-full-zip-sweatshirt",
 		"tamanho": "XL",
 		"cor": "Blue",
-		"descricao": "Ajax Full-Zip Sweatshirt - XL, Blue"
+		"descricao": "Ajax Full-Zip Sweatshirt - XL, Blue",
+		"quantidade": 1
 	},
 	{
 		"url": "arcadio-gym-short",
 		"tamanho": "33",
 		"cor": "Blue",
-		"descricao": "Arcadio Gym Short - 33, Blue"
+		"descricao": "Arcadio Gym Short - 33, Blue",
+		"quantidade": 1
 	},
 	{
 		"url": "atlas-fitness-tank",
 		"tamanho": "XS",
 		"cor": "Blue",
-		"descricao": "Atlas Fitness Tank - XS, Blue"
+		"descricao": "Atlas Fitness Tank - XS, Blue",
+		"quantidade": 1
 	}
 ]
